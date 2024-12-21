@@ -10,4 +10,5 @@
 > Abra o projeto no android e rode o aplicativo pelo android studio
 
 # APK
-> Baixe o projeto e rode o app-debug-androidTest.apk no seu celular
+> Baixe o projeto e rode o app-release.apk no seu celular
+> Selecione instalar sem análise
